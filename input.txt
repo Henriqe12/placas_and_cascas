@@ -4,13 +4,15 @@ Reactions position (xR/L)
 	0.25
 	0.75
 Pint forces (xF/L,F[N]) - minimum 1 value
-	2
-	0.0   1.0
-	0.5   1.0
+No. of Forces | Relative Position | Itensity
+     2
+                   0.0                1
+                   0.5                1
 Distributed forces (xw/L,W[N/m]) - minimum 2 values
-	3
-	0.5   0.25
-	0.6   0.5
-	1.0   0.25
+No. of Forces | Relative Position | Itensity
+     3
+                   0.0                0.25
+                   0.6                0.5
+                   1.0                0.25
 No. of stations (nx)
 	1000
